@@ -1,0 +1,26 @@
+{
+  "name": "nms",
+  "version": "1.0.0",
+  "description": "node map server",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XD1301/nms.git"
+  },
+  "keywords": [
+    "map",
+    "server"
+  ],
+  "author": "liz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XD1301/nms/issues"
+  },
+  "homepage": "https://github.com/XD1301/nms#readme"
+}
